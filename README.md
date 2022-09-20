@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HypathBel
 - 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning C#, SQL, HTML5, CSS
+- 🌱 I’m currently learning C#, SQL, HTML5, CSS, Python
 - ♻️ I keep updating in Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gaelysm3@gmail.com (current email)
