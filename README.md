@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning C#, SQL, HTML5, CSS, Python
 - ♻️ I keep updating in Java
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on an internship
 - 📫 How to reach me isabelvillegas915@gmail.com (current email)
 
 <!---
