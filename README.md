@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @HypathBel
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning C#, SQL, HTML5, CSS, Kotlin
-- ♻️ I keep updating in Java
-- 💞️ I’m looking to collaborate on an internship
-- 📫 How to reach me isabelvillegas915@gmail.com (current email)
+- 👀 I’m interested in PHP and backend world.
+- 🌱 I’m currently learning PHP.
+- ♻️ I keep updating in Java and Kotlin.
+- 💞️ I’m looking to collaborate and keep working out my personal projects!
+- 📫 How to reach me isabelvillegas915@gmail.com (current personal email)
 
 <!---
 HypathBel/HypathBel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
