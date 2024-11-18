@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HypathBel
-- 👀 I’m interested in PHP and backend world.
-- 🌱 I’m currently learning PHP.
-- ♻️ I keep updating in Java and Kotlin.
+- 👀 I’m interested in Flutter and DevOps world.
+- 🌱 I’m currently learning Flutter.
+- ♻️ I keep updating in Java, Kotlin and Laravel.
 - 💞️ I’m looking to collaborate and keep working out my personal projects!
 - 📫 How to reach me isabelvillegas915@gmail.com (current personal email)
 
